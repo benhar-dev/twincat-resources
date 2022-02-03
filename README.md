@@ -39,7 +39,7 @@ A curated list of TwinCAT resources.
 
 *TwinCAT related forums*
 
-* [TwinCAT LinkedIn forum](https://www.linkedin.com/groups/1860933) by **Stefan Henneken** - A friendly group of TwinCAT developers
+* [TwinCAT LinkedIn forum](https://www.linkedin.com/groups/1860933) - A friendly group of TwinCAT developers
 
 ## Libraries
 * [IntecreLibs library](https://bitbucket.org/Intecre/intecrelibs) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
