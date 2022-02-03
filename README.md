@@ -58,7 +58,7 @@ A curated list of TwinCAT resources.
 *Non-TwinCAT related links, but worth looking at!*
 
 * [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) by **Christopher Okhravi** - This is a MUST WATCH video series!
-* [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) by **MPJ** This is a fantastic series for learning Javascript (great for TwinCAT HMI)
+* [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) by **MPJ** This is a fantastic series for learning JavaScript (great for TwinCAT HMI)
 
 
 ## Contributing
