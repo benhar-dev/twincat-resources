@@ -60,6 +60,7 @@ A curated list of TwinCAT resources.
 * [Beckhoff AU - Teachable](https://beckhoff-au.teachable.com/) - Contains free training videos
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
+* [Electrical Automation Hands-On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA) - Hands-on and practice experience in industrial automation control (Includes TwinCAT) 
 * [Jakob Sagatowski's YouTube channel](https://www.youtube.com/JakobSagatowski) - Comprehensive tutorials about PLC programming and TwinCAT 3
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
 * [SquishyBrained YouTube channel](https://www.youtube.com/user/Evan5659) - Video series on PLC Programming and TwinCAT
