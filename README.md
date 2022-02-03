@@ -49,6 +49,7 @@ A curated list of TwinCAT resources.
 
 *TwinCAT related repos and github groups*
 
+* [Jack Borelius' Github](https://github.com/hijaaack?tab=repositories) - A comprehensive collection of Open-source framework controls for TwinCAT HMI
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TwinCatChangeLog](https://github.com/Roald87/TwinCatChangelog) - Unofficial TwinCAT changelog
 
