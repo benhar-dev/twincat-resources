@@ -58,6 +58,7 @@ A curated list of TwinCAT resources.
 *TwinCAT video tutorials and YouTube channels worth seeing*
 
 * [Beckhoff AU - Teachable](https://beckhoff-au.teachable.com/) - Contains free training videos
+* [Beckhoff UK - Virtual Visits](https://www.beckhoffblog.co.uk/virtualvisits) - Free videos from the team in Beckhoff UK
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Electrical Automation Hands-On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA) - Hands-on and practice experience in industrial automation control (Includes TwinCAT) 
