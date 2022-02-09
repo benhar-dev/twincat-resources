@@ -25,15 +25,15 @@ A curated list of TwinCAT resources.
 *TwinCAT related blogs*
 
 * [AllTwinCAT](https://alltwincat.com/) by **Jakob Sagatowski** - The TwinCAT development blog
+* [Automacaoweb](https://automacaoweb.wordpress.com/) [\[translated\]](https://automacaoweb-wordpress-com.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en-GB) by **Automacaoweb** - A large collection of TwinCAT examples and walkthroughs (Portuguese)
 * [Chris PLC Blog](http://soup01.com/en/) by **Chris** - An active blog on TwinCAT, TwinCAT Vision, and Robotics
 * [Contact and Coil](http://www.contactandcoil.com/) by **Scott Whitlock** - Programming tutorials on TwinCAT 3
 * [Cook & Code](https://roald87.github.io/twincat) by **Roald Ruiter** - TwinCAT blog by the author of [TcBlack](https://github.com/Roald87/TcBlack)
-* [Got TwinCAT](https://gotwincat.blogspot.com/) by **Voronin Nikolai** (Russian)
+* [Got TwinCAT](https://gotwincat.blogspot.com/) [\[translated\]](https://gotwincat-blogspot-com.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-GB) by **Voronin Nikolai** (Russian)
 * [Kassym Dorsel’s Blog](https://kassymdorsel.com/blog) by **Kassym** TwinCAT 3 development blog
 * [PLC Coder](https://www.plccoder.com/) by **Gerhard Barteling** - TwinCAT development blog from the author of [STweep](https://www.stweep.com/)
 * [Stefan Henneken](https://stefanhenneken.net/) by **Stefan Henneken** - Posts covering TwinCAT, Object oriented programming, .Net and C#
 * [WJB Automation Blog](http://dronefactory.co.uk/) by **Wojciech Bagniewsk** - Posts covering TwinCAT and the 3D engine Unity
-
 
 ## Forums
 
