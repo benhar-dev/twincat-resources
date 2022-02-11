@@ -38,8 +38,9 @@ A curated list of TwinCAT resources.
 ## Forums
 
 *TwinCAT related forums*
-
+* [SPS-Forum](https://www.sps-forum.de/forums/sonstige-steuerungen.11/) [\[translated\]](https://www-sps--forum-de.translate.goog/forums/sonstige-steuerungen.11/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-GB) - Big German PLC forum, many discussions about TwinCAT 2/3 (German)
 * [TwinCAT LinkedIn forum](https://www.linkedin.com/groups/1860933) - A friendly group of TwinCAT developers
+* [TwinCAT XAE version overview](https://community.developer.bosch.com/t5/Knowledge-base/TwinCAT-XAE-version-overview/ta-p/48982) - Non-official TwinCAT changelog by Bosch Connected Industry
 
 ## Libraries
 * [IntecreLibs library](https://bitbucket.org/Intecre/intecrelibs) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
@@ -50,8 +51,8 @@ A curated list of TwinCAT resources.
 *TwinCAT related repos and github groups*
 
 * [Jack Borelius' Github](https://github.com/hijaaack?tab=repositories) - A comprehensive collection of Open-source framework controls for TwinCAT HMI
+* [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
-* [TwinCatChangeLog](https://github.com/Roald87/TwinCatChangelog) - Unofficial TwinCAT changelog
 
 ## Videos
 
@@ -59,11 +60,13 @@ A curated list of TwinCAT resources.
 
 * [Beckhoff AU - Teachable](https://beckhoff-au.teachable.com/) - Contains free training videos
 * [Beckhoff UK - Virtual Visits](https://www.beckhoffblog.co.uk/virtualvisits) - Free videos from the team in Beckhoff UK
+* [Beckhoff USA learning videos](https://learn.beckhoffus.com/catalog) - A collection of free videos teaching TwinCAT, TwinCAT/BSD, Vision, etc...
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Electrical Automation Hands-On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA) - Hands-on and practice experience in industrial automation control (Includes TwinCAT) 
 * [Jakob Sagatowski's YouTube channel](https://www.youtube.com/JakobSagatowski) - Comprehensive tutorials about PLC programming and TwinCAT 3
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
+* [PLC programming for beginners](https://www.youtube.com/playlist?list=PL2LjUivoqcmUNF4wfaZdWQEZm9ptpIFuw) - Youtube playlist by Prof. Dr. Stöcker, University of Applied Sciences Hamburg. Perfect for beginners, includes TwinCAT setup and IEC61131 basics (German).
 * [SquishyBrained YouTube channel](https://www.youtube.com/user/Evan5659) - Video series on PLC Programming and TwinCAT
 
 ## Other
