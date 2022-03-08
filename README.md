@@ -50,6 +50,7 @@ A curated list of TwinCAT resources.
 
 *TwinCAT related repos and github groups*
 
+* [Beckhoff USA Community Repo](https://github.com/Beckhoff-USA-Community) - A community collection of samples and examples 
 * [Jack Borelius' Github](https://github.com/hijaaack?tab=repositories) - A comprehensive collection of Open-source framework controls for TwinCAT HMI
 * [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
