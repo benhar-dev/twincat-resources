@@ -17,6 +17,7 @@ A curated list of TwinCAT resources.
 *Official Beckhoff pages*
 
 * [Beckhoff](https://beckhoff.com/) - Main website
+* [Beckhoff Github](https://github.com/Beckhoff/) - Main Github page
 * [Infosys](https://infosys.beckhoff.com/english.php?content=../content/1033/tcinfosys3/index.html) - Main resource for datasheets, information and example code.
 * [TCBSD Packages](https://tcbsd.beckhoff.com/) - Package directory for TwinCAT/BSD
 
