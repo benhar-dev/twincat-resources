@@ -44,7 +44,7 @@ A curated list of TwinCAT resources.
 * [TwinCAT XAE version overview](https://community.developer.bosch.com/t5/Knowledge-base/TwinCAT-XAE-version-overview/ta-p/48982) - Non-official TwinCAT changelog by Bosch Connected Industry
 
 ## Libraries
-* [IntecreLibs library](https://bitbucket.org/Intecre/intecrelibs) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
+* [IntecreLibs library](https://github.com/Intecre/twincat-utils) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
 * [OSCAT libraries](http://www.oscat.de/) OSCAT has developed a comprehensive standard library for the IEC61131-3 language
 
 ## Repos
