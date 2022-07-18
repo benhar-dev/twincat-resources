@@ -46,6 +46,8 @@ A curated list of TwinCAT resources.
 ## Libraries
 * [IntecreLibs library](https://github.com/Intecre/twincat-utils) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
 * [OSCAT libraries](http://www.oscat.de/) OSCAT has developed a comprehensive standard library for the IEC61131-3 language
+* [Struckig](https://github.com/stefanbesler/struckig) Open source library for online, time-optimal, jerk-constrained trajectory-generation for multiple degree-of-freedoms.
+* [Twingrind](https://github.com/stefanbesler/twingrind) Open source call-graph profiling for TwinCAT 3
 
 ## Repos
 
