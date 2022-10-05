@@ -42,6 +42,7 @@ A curated list of TwinCAT resources.
 * [SPS-Forum](https://www.sps-forum.de/forums/sonstige-steuerungen.11/) [\[translated\]](https://www-sps--forum-de.translate.goog/forums/sonstige-steuerungen.11/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-GB) - Big German PLC forum, many discussions about TwinCAT 2/3 (German)
 * [TwinCAT LinkedIn forum](https://www.linkedin.com/groups/1860933) - A friendly group of TwinCAT developers
 * [TwinCAT XAE version overview](https://community.developer.bosch.com/t5/Knowledge-base/TwinCAT-XAE-version-overview/ta-p/48982) - Non-official TwinCAT changelog by Bosch Connected Industry
+* [twinControls](https://www.twincontrols.com/community/) - An unofficial "Beckhoff Community" forum
 
 ## Libraries
 * [IntecreLibs library](https://github.com/Intecre/twincat-utils) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
