@@ -27,6 +27,7 @@ A curated list of TwinCAT resources.
 
 * [AllTwinCAT](https://alltwincat.com/) by **Jakob Sagatowski** - The TwinCAT development blog
 * [Automacaoweb](https://automacaoweb.wordpress.com/) [\[translated\]](https://automacaoweb-wordpress-com.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en-GB) by **Automacaoweb** - A large collection of TwinCAT examples and walkthroughs (Portuguese)
+* [Automate to live](https://hopperpop.github.io/) by **Bram Gurdebeke** - A blog about automation and TwinCAT.
 * [Chris PLC Blog](http://soup01.com/en/) by **Chris** - An active blog on TwinCAT, TwinCAT Vision, and Robotics
 * [Contact and Coil](http://www.contactandcoil.com/) by **Scott Whitlock** - Programming tutorials on TwinCAT 3
 * [Cook & Code](https://roald87.github.io/twincat) by **Roald Ruiter** - TwinCAT blog by the author of [TcBlack](https://github.com/Roald87/TcBlack)
@@ -35,7 +36,6 @@ A curated list of TwinCAT resources.
 * [PLC Coder](https://www.plccoder.com/) by **Gerhard Barteling** - TwinCAT development blog from the author of [STweep](https://www.stweep.com/)
 * [Stefan Henneken](https://stefanhenneken.net/) by **Stefan Henneken** - Posts covering TwinCAT, Object oriented programming, .Net and C#
 * [WJB Automation Blog](http://dronefactory.co.uk/) by **Wojciech Bagniewsk** - Posts covering TwinCAT and the 3D engine Unity
-* [Automate to live](https://hopperpop.github.io/) by **Bram Gurdebeke** - A blog about automation and TwinCAT.
 
 ## Forums
 
@@ -71,6 +71,7 @@ A curated list of TwinCAT resources.
 * [Beckhoff USA learning videos](https://learn.beckhoffus.com/catalog) - A collection of free videos teaching TwinCAT, TwinCAT/BSD, Vision, etc...
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
+* [Curso OOP IEC61131-3 PLC](https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube) by **[Runtimevic](https://github.com/runtimevic)** - OOP IEC61131-3 PLC Course (Spanish)
 * [Electrical Automation Hands-On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA) - Hands-on and practice experience in industrial automation control (Includes TwinCAT) 
 * [Jakob Sagatowski's YouTube channel](https://www.youtube.com/JakobSagatowski) - Comprehensive tutorials about PLC programming and TwinCAT 3
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
