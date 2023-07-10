@@ -48,6 +48,7 @@ A curated list of TwinCAT resources.
 ## Libraries
 * [Fisothemes TwinCAT Libraries](https://github.com/fisothemes/) A collection of TwinCAT Libraries, such as [Dynamic Collections](https://github.com/fisothemes/TwinCat-Dynamic-Collections), [Hashing Algorithms](https://github.com/fisothemes/TwinCAT-Hashing-Algorithms)
 * [IntecreLibs library](https://github.com/Intecre/twincat-utils) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
+* [mobject](http://mobject.org) Growing open source library based on OOP principles for machine builders. 
 * [OSCAT libraries](http://www.oscat.de/) OSCAT has developed a comprehensive standard library for the IEC61131-3 language
 * [Struckig](https://github.com/stefanbesler/struckig) Open source library for online, time-optimal, jerk-constrained trajectory-generation for multiple degree-of-freedoms.
 * [Twingrind](https://github.com/stefanbesler/twingrind) Open source call-graph profiling for TwinCAT 3
