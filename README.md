@@ -62,6 +62,7 @@ A curated list of TwinCAT resources.
 * [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
 * [Stefanbesler](https://github.com/stefanbesler) - Collection of TwinCAT repos, including a simple and lightweight JSON decoder.
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
+* [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
 
 ## Videos
 
