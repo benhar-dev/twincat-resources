@@ -64,6 +64,7 @@ A curated list of TwinCAT resources.
 * [Stefanbesler](https://github.com/stefanbesler) - Collection of TwinCAT repos, including a simple and lightweight JSON decoder.
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
+* [Twinpack](https://github.com/Zeugwerk/Twinpack) - A powerful and user-friendly package management tool for TwinCAT libraries.
 
 ## Videos
 
@@ -71,7 +72,7 @@ A curated list of TwinCAT resources.
 
 * [Beckhoff AU - Teachable](https://beckhoff-au.teachable.com/) - Contains free training videos
 * [Beckhoff Italy Tutorials](https://www.gotostage.com/channel/c59deb70de3e4b9e975a175fb91e6109) - A large collection of tutorials from the team in Italy (Italian)
-* [Beckhoff UK - Virtual Visits](https://www.beckhoffblog.co.uk/virtualvisits) - Free videos from the team in Beckhoff UK
+* Beckhoff UK - Virtual Visits - Free videos from the team in Beckhoff UK (Currently offline)
 * [Beckhoff USA learning videos](https://learn.beckhoffus.com/catalog) - A collection of free videos teaching TwinCAT, TwinCAT/BSD, Vision, etc...
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
