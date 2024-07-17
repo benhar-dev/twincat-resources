@@ -76,6 +76,7 @@ A curated list of TwinCAT resources.
 * [Beckhoff Italy Tutorials](https://www.gotostage.com/channel/c59deb70de3e4b9e975a175fb91e6109) - A large collection of tutorials from the team in Italy (Italian)
 * Beckhoff UK - Virtual Visits - Free videos from the team in Beckhoff UK (Currently offline)
 * [Beckhoff USA learning videos](https://learn.beckhoffus.com/catalog) - A collection of free videos teaching TwinCAT, TwinCAT/BSD, Vision, etc...
+* [Coding Bytes on YouTube](https://www.youtube.com/@benhar-dev) - Same Non-official Beckhoff video series from the members of Beckhoff Australia as below, but via YouTube
 * [Coding Bytes TwinCAT 3](https://codingbytes.teachable.com/p/codingbytes_twincat3) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Coding Bytes TwinCAT HMI](https://codingbytes.teachable.com/p/codingbytes_twincathmi) - Non-official Beckhoff video series from the members of Beckhoff Australia
 * [Curso OOP IEC61131-3 PLC](https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube) by **[Runtimevic](https://github.com/runtimevic)** - OOP IEC61131-3 PLC Course (Spanish)
