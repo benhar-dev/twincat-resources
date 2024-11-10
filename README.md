@@ -47,6 +47,7 @@ A curated list of TwinCAT resources.
 * [SASE: Society of Automation Software Engineers](https://sase.space/) - A Slack group and professional networking society for automation software engineering, with a large Beckhoff contingent 
 
 ## Libraries
+
 * [Fisothemes TwinCAT Libraries](https://github.com/fisothemes/) A collection of TwinCAT Libraries, such as [Dynamic Collections](https://github.com/fisothemes/TwinCat-Dynamic-Collections), [Hashing Algorithms](https://github.com/fisothemes/TwinCAT-Hashing-Algorithms)
 * [IntecreLibs library](https://github.com/Intecre/twincat-utils) Open source library with utility functions for TwinCAT developed by **Mark Lazarides**.
 * [mobject](http://mobject.org) Growing open source library based on OOP principles for machine builders. 
@@ -63,6 +64,7 @@ A curated list of TwinCAT resources.
 * [log4TC](https://github.com/mbc-engineering/log4TC) - Open source logger for TwinCAT.  Documentation found [here](https://mbc-engineering.github.io/log4TC/index.html).
 * [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
 * [Stefanbesler](https://github.com/stefanbesler) - Collection of TwinCAT repos, including a simple and lightweight JSON decoder.
+* [TcLibraryVersions](https://github.com/RumstiBumsti/TcLibraryVersions) - A list of all TwinCAT libraries and which libraries are included in the different versions of TwinCAT
 * [TcLog](https://github.com/bengeisler/TcLog) - Open source logger for TwinCAT. Blog found [here](https://www.benediktgeisler.de/en/blog/).
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
