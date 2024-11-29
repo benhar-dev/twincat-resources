@@ -69,6 +69,7 @@ A curated list of TwinCAT resources.
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
 * [Twinpack](https://github.com/Zeugwerk/Twinpack) - A powerful and user-friendly package management tool for TwinCAT libraries.
+* [PLC Sphinx Parser](https://github.com/DEMCON/plcdoc) - Sphinx Parser for automated code documentation
 
 ## Videos
 
