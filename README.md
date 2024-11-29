@@ -63,13 +63,13 @@ A curated list of TwinCAT resources.
 * [Jack Borelius' Github](https://github.com/hijaaack?tab=repositories) - A comprehensive collection of Open-source framework controls for TwinCAT HMI
 * [log4TC](https://github.com/mbc-engineering/log4TC) - Open source logger for TwinCAT.  Documentation found [here](https://mbc-engineering.github.io/log4TC/index.html).
 * [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
+* [PLC Sphinx Parser](https://github.com/DEMCON/plcdoc) - Sphinx Parser for automated code documentation
 * [Stefanbesler](https://github.com/stefanbesler) - Collection of TwinCAT repos, including a simple and lightweight JSON decoder.
 * [TcLibraryVersions](https://github.com/RumstiBumsti/TcLibraryVersions) - A list of all TwinCAT libraries and which libraries are included in the different versions of TwinCAT
 * [TcLog](https://github.com/bengeisler/TcLog) - Open source logger for TwinCAT. Blog found [here](https://www.benediktgeisler.de/en/blog/).
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
 * [Twinpack](https://github.com/Zeugwerk/Twinpack) - A powerful and user-friendly package management tool for TwinCAT libraries.
-* [PLC Sphinx Parser](https://github.com/DEMCON/plcdoc) - Sphinx Parser for automated code documentation
 
 ## Videos
 
