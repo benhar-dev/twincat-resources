@@ -31,6 +31,7 @@ A curated list of TwinCAT resources.
 * [Chris PLC Blog](http://soup01.com/en/) by **Chris** - An active blog on TwinCAT, TwinCAT Vision, and Robotics
 * [Contact and Coil](http://www.contactandcoil.com/) by **Scott Whitlock** - Programming tutorials on TwinCAT 3
 * [Cook & Code](https://roald87.github.io/twincat) by **Roald Ruiter** - TwinCAT blog by the author of [TcBlack](https://github.com/Roald87/TcBlack)
+* [ekvip Blog](https://ekvip.de/blog-ekvip/) by **ekvip automation GmbH** - A blog exploring the world of PLC programming, TwinCAT, and automation, offering insights, knowledge, and a comprehensive [style guide](https://ekvip.de/style-guide/) for professionals and newcomers alike.
 * [Got TwinCAT](https://gotwincat.blogspot.com/) [\[translated\]](https://gotwincat-blogspot-com.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-GB) by **Voronin Nikolai** (Russian)
 * [Kassym Dorsel’s Blog](https://kassymdorsel.com/blog) by **Kassym** TwinCAT 3 development blog
 * [PLC Coder](https://www.plccoder.com/) by **Gerhard Barteling** - TwinCAT development blog from the author of [STweep](https://www.stweep.com/)
