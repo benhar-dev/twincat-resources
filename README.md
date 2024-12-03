@@ -36,6 +36,7 @@ A curated list of TwinCAT resources.
 * [PLC Coder](https://www.plccoder.com/) by **Gerhard Barteling** - TwinCAT development blog from the author of [STweep](https://www.stweep.com/)
 * [Stefan Henneken](https://stefanhenneken.net/) by **Stefan Henneken** - Posts covering TwinCAT, Object oriented programming, .Net and C#
 * [WJB Automation Blog](http://dronefactory.co.uk/) by **Wojciech Bagniewsk** - Posts covering TwinCAT and the 3D engine Unity
+* [ekvip Blog](https://ekvip.de/blog-ekvip/) by **ekvip automation GmbH** - A blog exploring the world of PLC programming, TwinCAT, and automation, offering insights, knowledge, and a comprehensive [style guide](https://ekvip.de/style-guide/) for professionals and newcomers alike.
 
 ## Forums
 
