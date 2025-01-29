@@ -55,7 +55,8 @@ A curated list of TwinCAT resources.
 * [OSCAT libraries](http://www.oscat.de/) OSCAT has developed a comprehensive standard library for the IEC61131-3 language
 * [Struckig](https://github.com/stefanbesler/struckig) Open source library for online, time-optimal, jerk-constrained trajectory-generation for multiple degree-of-freedoms.
 * [Twingrind](https://github.com/stefanbesler/twingrind) Open source call-graph profiling for TwinCAT 3
-
+* [TwinSharp](https://github.com/kimblad/TwinSharp) - A C# library that can view and control many aspects of TwinCAT such as: axes, PLCs, realtime settings and IPC.
+  
 ## Repos
 
 *TwinCAT related repos and github groups*
