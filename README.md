@@ -77,6 +77,7 @@ A curated list of TwinCAT resources.
 
 *TwinCAT video tutorials and YouTube channels worth seeing*
 
+* [Beckhoff DE - Tutorials](https://www.beckhoff.com/en-us/support/tutorials/) - Official detailed tutorials by Beckhoff PMs and Industry Specialists for short in-depth insight into Beckhoff products
 * [Beckhoff AU - Teachable](https://beckhoff-au.teachable.com/) - Contains free training videos
 * [Beckhoff Italy Tutorials](https://www.gotostage.com/channel/c59deb70de3e4b9e975a175fb91e6109) - A large collection of tutorials from the team in Italy (Italian)
 * Beckhoff UK - Virtual Visits - Free videos from the team in Beckhoff UK (Currently offline)
@@ -90,7 +91,8 @@ A curated list of TwinCAT resources.
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
 * [PLC programming for beginners](https://www.youtube.com/playlist?list=PL2LjUivoqcmUNF4wfaZdWQEZm9ptpIFuw) - Youtube playlist by Prof. Dr. Stöcker, University of Applied Sciences Hamburg. Perfect for beginners, includes TwinCAT setup and IEC61131 basics (German).
 * [SquishyBrained YouTube channel](https://www.youtube.com/user/Evan5659) - Video series on PLC Programming and TwinCAT
-
+* [Beckhoff USA Webinar Wednesdays](https://www.blog.beckhoffus.com/events/webinar-series) - Webinar series from the Product Managers of Beckhoff USA
+* [Beckhoff USA Webinar Wednesdays on YouTube](https://www.youtube.com/playlist?list=PLSUMeALpvl4cii7kye3kHOb14BiUPnZRi) - Same video series as above, but recordings posted via YouTube
 ## Other
 
 *Non-TwinCAT related links, but worth looking at!*
