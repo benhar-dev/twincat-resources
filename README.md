@@ -61,7 +61,7 @@ A curated list of TwinCAT resources.
 
 *TwinCAT related repos and github groups*
 
-* [Beckhoff USA Community Repo](https://github.com/Beckhoff-USA-Community) - A community collection of samples and examples 
+* [Beckhoff USA Community Repo](https://github.com/Beckhoff-USA-Community) - A community collection of samples, examples, and libraries like the [SPT-Libraries](https://github.com/Beckhoff-USA-Community/SPT-Libraries)
 * [Jack Borelius' Github](https://github.com/hijaaack?tab=repositories) - A comprehensive collection of Open-source framework controls for TwinCAT HMI
 * [log4TC](https://github.com/mbc-engineering/log4TC) - Open source logger for TwinCAT.  Documentation found [here](https://mbc-engineering.github.io/log4TC/index.html).
 * [Non-official TwinCAT changelog](https://github.com/Roald87/TwinCatChangelog) - This repo is a community effort which tries to track changes in Beckhoff's TwinCAT software
