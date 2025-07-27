@@ -28,7 +28,7 @@ A curated list of TwinCAT resources.
 * [AllTwinCAT](https://alltwincat.com/) by **Jakob Sagatowski** - The TwinCAT development blog
 * [Automacaoweb](https://automacaoweb.wordpress.com/) [\[translated\]](https://automacaoweb-wordpress-com.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en-GB) by **Automacaoweb** - A large collection of TwinCAT examples and walkthroughs (Portuguese)
 * [Automate to live](https://hopperpop.github.io/) by **Bram Gurdebeke** - A blog about automation and TwinCAT.
-* [Chris PLC Blog](http://soup01.com/en/) by **Chris** - An active blog on TwinCAT, TwinCAT Vision, and Robotics
+* [Chris Chung's PLC Blog](http://soup01.com/en/) by **Chris Chung** - An active blog on TwinCAT, TwinCAT Vision, and Robotics. This is a must read! Chris does an exceptional job exploring new and existing technology. 
 * [Contact and Coil](http://www.contactandcoil.com/) by **Scott Whitlock** - Programming tutorials on TwinCAT 3
 * [Cook & Code](https://roald87.github.io/twincat) by **Roald Ruiter** - TwinCAT blog by the author of [TcBlack](https://github.com/Roald87/TcBlack)
 * [ekvip Blog](https://ekvip.de/blog-ekvip/) by **ekvip automation GmbH** - A blog exploring the world of PLC programming, TwinCAT, and automation, offering insights, knowledge, and a comprehensive [style guide](https://ekvip.de/style-guide/) for professionals and newcomers alike.
@@ -90,6 +90,7 @@ A curated list of TwinCAT resources.
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
 * [PLC programming for beginners](https://www.youtube.com/playlist?list=PL2LjUivoqcmUNF4wfaZdWQEZm9ptpIFuw) - Youtube playlist by Prof. Dr. Stöcker, University of Applied Sciences Hamburg. Perfect for beginners, includes TwinCAT setup and IEC61131 basics (German).
 * [SquishyBrained YouTube channel](https://www.youtube.com/user/Evan5659) - Video series on PLC Programming and TwinCAT
+* [Threes Soup01 YouTube channel](https://youtube.com/@threessoup01) - Another must watch series by the very active Chris Chung. 
 * [Beckhoff USA Webinar Wednesdays](https://www.blog.beckhoffus.com/events/webinar-series) - Webinar series from the Product Managers of Beckhoff USA
 * [Beckhoff USA Webinar Wednesdays on YouTube](https://www.youtube.com/playlist?list=PLSUMeALpvl4cii7kye3kHOb14BiUPnZRi) - Same video series as above, but recordings posted via YouTube
 ## Other
