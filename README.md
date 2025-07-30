@@ -151,6 +151,10 @@ A curated list of TwinCAT resources.
 ##### Project Generator
 ##### Framework Controls
 ##### Server Extensions
+
+* [TF2000_Server_Samples](https://github.com/Beckhoff/TF2000_Server_Samples) - Official Beckhoff Server Extension Samples (and [documentation](https://github.com/Beckhoff/TF2000_Server_Documentation))
+* [Python.Beckhoff.tchmi.extensionapi](https://github.com/Beckhoff/TF2000_Server_Documentation/tree/main/python) - TwinCAT HMI Python Extensions, part of the Python.Beckhoff.tchmi.extensionapi package
+
 ##### Nuget
 ##### Alarm
 ##### EtherCAT Diagnostics
@@ -363,7 +367,11 @@ A curated list of TwinCAT resources.
 </details>
 <details>
 <summary>TF7xxx | Vision</summary>
-  
+
+#### TF7xxx | TwinCAT Vision General
+
+* [TF7xxx_Samples](https://github.com/Beckhoff/TF7xxx_Samples) - Official sample code for TwinCAT 3 Vision
+
 #### TF700x | TwinCAT 3 GigE Vision Connector
 #### TF7020 | TwinCAT 3 Vision Beckhoff Camera Connector
 #### TF7100 | TwinCAT 3 Vision Base
