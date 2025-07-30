@@ -109,11 +109,20 @@ A curated list of TwinCAT resources.
 <details>
 <summary>TE1xxx | Engineering Tools</summary>
   
-#### TE1000 | TwinCAT 3 Engineering  
-#### TE1010 | Realtime Monitor  
-#### TE1030 | Documentation Generation  
-#### TE1111 | EtherCAT Simulation  
 #### TE1000 | TwinCAT 3 Engineering
+##### Core Boost
+##### Tasks
+##### Boot directory
+##### Routing
+##### Cookie Cutting
+##### Installation
+##### PLC Update without XAE
+##### Corrected time stamps (NTP, DC, Application)
+##### Libraries
+##### Reference Libraries
+##### PLC Open
+##### Debugger (advanced debugging)
+##### Event System
 #### TE1010 | TwinCAT 3 Realtime Monitor
 #### TE1030 | TwinCAT 3 Documentation Generation
 #### TE1111 | TwinCAT 3 EtherCAT Simulation
@@ -135,6 +144,27 @@ A curated list of TwinCAT resources.
 #### TE1610 | TwinCAT 3 EAP Configurator
 #### TE1700 | TwinCAT 3 CoAgent
 #### TE2000 | TwinCAT 3 HMI Engineering
+
+* [tchmi-hotkeys](https://github.com/benhar-dev/tchmi-hotkeys) - Proof of concept, add keyboard shortcuts to TcHmiButtons
+* [tchmi-keyboard-usermanagement-fix](https://github.com/benhar-dev/tchmi-keyboard-usermanagement-fix) - Proof of concept, add keyboard to user management
+
+##### Project Generator
+##### Framework Controls
+##### Server Extensions
+##### Nuget
+##### Alarm
+##### EtherCAT Diagnostics
+##### EvenLogger
+##### LDAP
+##### MDP
+##### OpcUa
+##### PackML
+##### PDF Viewer
+##### Recipe Management
+##### Responsive Navigation
+##### Scope
+##### Speech
+##### Vision
 #### TE3500 | TwinCAT 3 Analytics Workbench
 #### TE3510 | TwinCAT 3 Analytics Vision
 #### TE3511 | TwinCAT 3 Analytics Energy
@@ -142,7 +172,7 @@ A curated list of TwinCAT resources.
 #### TE3520 | TwinCAT 3 Analytics Service Tool
 #### TE35x1 | TwinCAT 3 Analytics Maintenance
 #### TE3850 | TwinCAT 3 Machine Learning Creator
-#### TE5910 | TwinCAT 3 Motion Designer
+#### TE5910 | TwinCAT 3 Motion Designer for drive dimensioning
 #### TE5950 | TwinCAT 3 Drive Manager 2
 #### TE5960 | TwinCAT 3 Autotuning
 #### TE6100 | TwinCAT 3 OPC UA Nodeset Editor
@@ -150,7 +180,7 @@ A curated list of TwinCAT resources.
 #### TE9000 | TwinCAT 3 Safety Editor
 #### TE9100 | TwinSAFE Logic Simulator
 #### TE9200 | TwinSAFE Loader/User
-  
+
 </details>
 <details>
 <summary>TC1xxx | TwinCAT 3 Base</summary>
@@ -172,64 +202,64 @@ A curated list of TwinCAT resources.
 
 </details>
 <details>
-<summary>TFxxxx | TwinCAT 3 Functions</summary>
+<summary>TF1xxx | TwinCAT 3 System</summary>
 
-#### TF1xxx | System
-#### TF1100 | Controller Redundancy
-#### TF1200 | UI Client
+#### TF1100 | TwinCAT 3 Controller Redundancy
+#### TF1200 | TwinCAT 3 UI Client
 
 * [codingbytes-tf1200-on-tcbsd](https://github.com/benhar-dev/codingbytes-tf1200-on-tcbsd) - Coding Bytes Mini - Installing TF1200 TwinCAT UI Client on TC/BSD
 
-#### TF1400 | Runtime for MATLAB® and Simulink®
-#### TF1420 | Runtime for FMI
-#### TF1800 | PLC HMI
-#### TF1810 | PLC HMI Web
-#### TF1910 | UML
+#### TF1400 | TwinCAT 3 Runtime for MATLAB® and Simulink®
+#### TF1420 | TwinCAT 3 Runtime for FMI
+#### TF1800 | TwinCAT 3 PLC HMI
+#### TF1810 | TwinCAT 3 PLC HMI Web
+#### TF1910 | TwinCAT 3 UML
 
 </details>
 <details>
 <summary>TF2xxx | HMI</summary>
 
-#### TF2000 | HMI Server
+#### TF2000 | TwinCAT 3 HMI Server
 
 * [tchmi-multi-screen](https://github.com/benhar-dev/tchmi-multi-screen) - Example using TcHmi on IPC with multiple screens (or multiple clients accessing different screens)
+* [electron-custom-browser](https://github.com/benhar-dev/electron-custom-browser) - Simple example of creating your own browser
 
-#### TF20x0 | HMI Clients Packs
-#### TF20xx | HMI Targets Packs
-#### TF2110 | HMI OPC UA
-#### TF2200 | HMI Extension SDK
-#### TF2300 | HMI Scope
-#### TF2400 | HMI Audit Trail
-#### TF24x0 | HMI Audit Trail Symbols Pack
+#### TF20x0 | TwinCAT 3 HMI Clients Packs
+#### TF20xx | TwinCAT 3 HMI Targets Packs
+#### TF2110 | TwinCAT 3 HMI OPC UA
+#### TF2200 | TwinCAT 3 HMI Extension SDK
+#### TF2300 | TwinCAT 3 HMI Scope
+#### TF2400 | TwinCAT 3 HMI Audit Trail
+#### TF24x0 | TwinCAT 3 HMI Audit Trail Symbols Pack
 
 </details>
 <details>
 <summary>TF3xxx | Measurement</summary>
 
-#### TF3300 | Scope Server
-#### TF3500 | Analytics Logger
-#### TF3510 | Analytics Library
-#### TF3520 | Analytics Storage Provider
-#### TF3550 | Analytics Runtime
-#### TF3551 | Analytics Runtime Base
-#### TF3600 | Condition Monitoring
-#### TF3650 | Power Monitoring
-#### TF3680 | Filter
-#### TF3685 | Weighing Library
-#### TF3710 | Interface for LabVIEW™
-#### TF3800 | Machine Learning Inference Engine
-#### TF3810 | Neural Network Inference Engine
-#### TF3820 | Machine Learning Server
-#### TF3830 | Machine Learning Server Client
-#### TF3900 | Solar Position Algorithm
+#### TF3300 | TwinCAT 3 Scope Server
+#### TF3500 | TwinCAT 3 Analytics Logger
+#### TF3510 | TwinCAT 3 Analytics Library
+#### TF3520 | TwinCAT 3 Analytics Storage Provider
+#### TF3550 | TwinCAT 3 Analytics Runtime
+#### TF3551 | TwinCAT 3 Analytics Runtime Base
+#### TF3600 | TwinCAT 3 Condition Monitoring
+#### TF3650 | TwinCAT 3 Power Monitoring
+#### TF3680 | TwinCAT 3 Filter
+#### TF3685 | TwinCAT 3 Weighing Library
+#### TF3710 | TwinCAT 3 Interface for LabVIEW™
+#### TF3800 | TwinCAT 3 Machine Learning Inference Engine
+#### TF3810 | TwinCAT 3 Neural Network Inference Engine
+#### TF3820 | TwinCAT 3 Machine Learning Server
+#### TF3830 | TwinCAT 3 Machine Learning Server Client
+#### TF3900 | TwinCAT 3 Solar Position Algorithm
 
 </details>
 <details>
 <summary>TF4xxx | Controller</summary>
 
-#### TF4100 | Controller Toolbox
-#### TF4110 | Temperature Controller
-#### TF4500 | Speech
+#### TF4100 | TwinCAT 3 Controller Toolbox
+#### TF4110 | TwinCAT 3 Temperature Controller
+#### TF4500 | TwinCAT 3 Speech
 
 </details>
 <details>
@@ -296,6 +326,9 @@ A curated list of TwinCAT resources.
 #### TF6225 | TwinCAT 3 EtherCAT External Sync
 #### TF6230 | TwinCAT 3 Parallel Redundancy Protocol (PRP)
 #### TF6250 | TwinCAT 3 Modbus TCP
+
+* [electron-tf6250-server-test](https://github.com/benhar-dev/electron-tf6250-server-test) - TF6250 Server Test
+
 #### TF6255 | TwinCAT 3 Modbus RTU
 #### TF6270 | TwinCAT 3 PROFINET RT Device
 #### TF6271 | TwinCAT 3 PROFINET RT Controller
@@ -331,15 +364,14 @@ A curated list of TwinCAT resources.
 <details>
 <summary>TF7xxx | Vision</summary>
   
-#### TF700x–TF7810 | Vision Modules (OCR, Matching, GigE Vision, etc.)
-
-</details>
-<details>
-<summary>TF8xxx | Industry-Specific</summary>
-
 #### TF700x | TwinCAT 3 GigE Vision Connector
 #### TF7020 | TwinCAT 3 Vision Beckhoff Camera Connector
 #### TF7100 | TwinCAT 3 Vision Base
+
+* [vision-golden-template](https://github.com/benhar-dev/vision-golden-template) - Code Snippet - Golden Template using TwinCAT Vision
+* [vision-F_VN_ApplyTranslationToAffineTransformation](https://github.com/benhar-dev/vision-F_VN_ApplyTranslationToAffineTransformation) - Code Snippet - F_VN_ApplyTranslationToAffineTransformation
+* [vision-F_VN_FitLine](https://github.com/benhar-dev/vision-F_VN_FitLine) - Code Snippet - F_VN_FitLine
+  
 #### TF7200 | TwinCAT 3 Vision Matching 2D
 #### TF7250 | TwinCAT 3 Vision Code Reading
 #### TF7255 | TwinCAT 3 Vision Code Quality
@@ -350,13 +382,28 @@ A curated list of TwinCAT resources.
 
 </details>
 <details>
-<summary>TwinSAFE</summary>
+<summary>TF8xxx | Industry-Specific</summary>
 
-#### TwinSAFE | General
-#### TwinSAFE | Pasivation
-#### TwinSAFE | UserTool
-#### TwinSAFE | DownloadTool
-#### TwinSAFE | Using HMI to replace terminal
+#### TF8000 | HVAC
+#### TF8010 | Building Automation Basic
+#### TF8020 | TwinCAT 3 BACnet
+#### TF8040 | TwinCAT 3 Building Automation
+#### TF8050 | TwinCAT 3 Lighting Solution
+#### TF8310 | TwinCAT 3 Wind Framework
+#### TF8330 | TwinCAT 3 Power Collector
+#### TF8350 | TwinCAT 3 Power Technologies
+#### TF8360 | TwinCAT 3 Power Control
+#### TF8400 | TwinCAT 3 MTP Runtime
+#### TF8540 | TwinCAT 3 Plastic Processing Framework
+#### TF8550 | TwinCAT 3 Plastic HMI Framework
+#### TF8560 | TwinCAT 3 Plastic Technology Functions
+#### TF8810 | TwinCAT 3 AES70 (OCA)
+
+</details>
+<details>
+<summary>Addons</summary>
+
+#### SE1103-1100 | Beckhoff I/O VIs for LabVIEW™
 
 </details>
 <details>
@@ -367,10 +414,11 @@ A curated list of TwinCAT resources.
 
 #### Entertainment
 ##### ArtNet
+##### Crestron
 ##### PJLink
-##### Q-Sys
 ##### PosiStageNet
-##### sACN
+##### Q-Sys | QRC
+##### sACN | 2016
 
 #### General
 ##### Tc2_Coupler
@@ -395,6 +443,9 @@ A curated list of TwinCAT resources.
 ##### Tc2_System
 ##### Tc2_SystemC69xx
 ##### Tc2_Utilities
+
+* [tc3-ps-network-adapter-control](https://github.com/benhar-dev/tc3-ps-network-adapter-control) - Network Adapter Control using Tc3, NT_StartProcess and Powershell
+
 ##### Tc3_BA_Common
 ##### Tc3_BA2_Common
 ##### Tc3_DALI
@@ -415,6 +466,8 @@ A curated list of TwinCAT resources.
 
 #### Infosys | Installation
 #### Infosys | 4026 Specific Examples
+
+* [CreateCallstackCoreDump](https://infosys.beckhoff.com/english.php?content=../content/1033/tc3_plc_intro/18677193867.html) - Infosys - Create core dump at runtime via PLC
 
 </details>
 <details>
@@ -460,6 +513,9 @@ A curated list of TwinCAT resources.
 * [nodejs-structure-to-pdf](https://github.com/benhar-dev/nodejs-structure-to-pdf) - Structure to PDF
 
 #### ADS | Python
+
+* [pyads-cx7000-as-io](https://github.com/benhar-dev/pyads-cx7000-as-io) - Simple example of connecting any EtherCAT I/O to Python, using a CX7000
+  
 #### ADS | C++
 #### ADS | C#
 
@@ -490,10 +546,13 @@ A curated list of TwinCAT resources.
 <details>
 <summary>IO</summary>
 
-#### EL2574
+#### EL2574 | EtherCAT Terminal, 4-channel LED output, pixel LED
 
 [tc3-el2574-christmas-final](https://github.com/benhar-dev/tc3-el2574-christmas-final) - EL2574 Christmas Demo - Final Code
 
+#### EL7031 | EtherCAT Terminal, 1-channel motion interface, stepper motor, 24 V DC, 1.5 A
+
+[el7031-simple-position-control](https://github.com/benhar-dev/el7031-simple-position-control) - Example EL7xxx range with Positioning Interface
 
 </details>
 <details>
