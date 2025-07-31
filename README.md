@@ -345,7 +345,7 @@ A curated list of TwinCAT resources.
 #### TF6310 | TwinCAT 3 TCP/IP
 #### TF6311 | TwinCAT 3 TCP/UDP Realtime
 
-*[nodejs-udp-client](https://github.com/benhar-dev/nodejs-udp-client) - Simple tool for testing incoming UDP comms from TwinCAT Realtime UDP Example
+* [nodejs-udp-client](https://github.com/benhar-dev/nodejs-udp-client) - Simple tool for testing incoming UDP comms from TwinCAT Realtime UDP Example
 
 #### TF6340 | TwinCAT 3 Serial Communication
 #### TF6350 | TwinCAT 3 SMS/SMTP
