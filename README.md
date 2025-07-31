@@ -2,16 +2,25 @@
 
 A curated list of TwinCAT resources.
 
+## Contributing
+If you have a link which is worth sharing with others, please raise a new issue on the issues tab, or submit it to the repo by creating a pull request.
+
+>[!TIP]
+>Not sure where a link belongs? Just share the link using an issue and I'll sort it out for you.
+
 ## Contents
 
-* [Beckhoff](#beckhoff)
-* [Blogs](#blogs)
-* [Forums](#forums)
-* [Libraries](#libraries)
-* [Repos](#repos)
-* [Videos](#videos)
-* [Other](#other)
-* [Modules & Features](#modules--features)
+* General - Broad resources covering TwinCAT, Beckhoff, and interesting automation topics.
+  * [Beckhoff](#beckhoff)
+  * [Blogs](#blogs)
+  * [Forums](#forums)
+  * [Libraries](#libraries)
+  * [Repos](#repos)
+  * [Videos](#videos)
+  * [Other](#other)
+    
+* Topic-specific - Resources tied to a specific TwinCAT feature or module.
+  * [Modules & Features](#modules--features)
 
 ## Beckhoff
 
@@ -574,6 +583,3 @@ A curated list of TwinCAT resources.
 * [nodejs-twincat-virtualbox-tool](https://github.com/benhar-dev/nodejs-twincat-virtualbox-tool) - Tools - Quick Make TwinCAT BSD and TwinCAT RT Linux Virtual Box VM
 
 ---
-
-## Contributing
-Please feel free to request links to be added to this list by raising a new issue on the issues tab.
