@@ -293,6 +293,9 @@ If you have a link which is worth sharing with others, please raise a new issue 
 #### TF5120 | TwinCAT 3 Robotics mxAutomation
 #### TF5130 | TwinCAT 3 Robotics uniVAL PLC
 #### TF5200 | TwinCAT 3 CNC
+
+* [ISG-kernel](https://www.isg-stuttgart.de/en/products/softwareproducts/isg-kernel/documents-and-downloads) - Introduction to TwinCAT system functions and motion control using the ISG kernel.
+
 #### TF5210 | TwinCAT 3 CNC E
 #### TF5220 | TwinCAT 3 CNC Axes Pack 64
 #### TF5221 | TwinCAT 3 CNC Axes Pack unlimited
