@@ -334,6 +334,9 @@ A curated list of TwinCAT resources.
 * [electron-tf6250-server-test](https://github.com/benhar-dev/electron-tf6250-server-test) - TF6250 Server Test
 
 #### TF6255 | TwinCAT 3 Modbus RTU
+
+* [tc3-modbus-rtu-snippets](https://github.com/benhar-dev/tc3-modbus-rtu-snippets) - Code Snippet - Using Modbus RTU Master Function Block (TF6255)
+
 #### TF6270 | TwinCAT 3 PROFINET RT Device
 #### TF6271 | TwinCAT 3 PROFINET RT Controller
 #### TF6280 | TwinCAT 3 EtherNet/IP™ Adapter
