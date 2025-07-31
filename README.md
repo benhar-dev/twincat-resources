@@ -427,6 +427,14 @@ If you have a link which is worth sharing with others, please raise a new issue 
 
 </details>
 <details>
+<summary>TwinSAFE</summary>
+
+#### General
+ 
+* [Learn TwinSAFE](https://www.youtube.com/@TwinSAFE) - Learn TwinSAFE in bite-sized chunks with the Beckhoff USA Product Manager.
+
+</details>
+<details>
 <summary>Libraries</summary>
 
 #### Motion
