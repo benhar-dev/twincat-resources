@@ -593,4 +593,18 @@ If you have a link which is worth sharing with others, please raise a new issue 
 
 * [nodejs-twincat-virtualbox-tool](https://github.com/benhar-dev/nodejs-twincat-virtualbox-tool) - Tools - Quick Make TwinCAT BSD and TwinCAT RT Linux Virtual Box VM
 
----
+</details>
+
+## 3rd Party Integration 
+
+*A categorized collection of external technologies which may be used with or alongside TwinCAT.*
+
+<details>
+<summary>Ignition</summary>
+  
+#### Ignition Guides
+
+* [Electrical Automation Hands-On, TwinCAT and Ignition Setup](https://youtube.com/playlist?list=PL762SfoJC-e9CywYPwcDD_atUcSnAnB2b&si=fNwf70g4XQfG4JbN)
+
+</details>
+
