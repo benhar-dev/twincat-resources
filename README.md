@@ -19,8 +19,9 @@ If you have a link which is worth sharing with others, please raise a new issue 
   * [Videos](#videos)
   * [Other](#other)
     
-* Topic-specific - Resources tied to a specific TwinCAT feature or module.
+* Topic-specific - Resources tied to a specific TwinCAT feature, module or 3rd party.
   * [Modules & Features](#modules--features)
+  * [3rd Party Integration](#3rd-party-integration)
 
 ## Beckhoff
 
