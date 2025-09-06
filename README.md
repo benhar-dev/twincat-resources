@@ -65,6 +65,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [Struckig](https://github.com/stefanbesler/struckig) Open source library for online, time-optimal, jerk-constrained trajectory-generation for multiple degree-of-freedoms.
 * [Twingrind](https://github.com/stefanbesler/twingrind) Open source call-graph profiling for TwinCAT 3
 * [TwinSharp](https://github.com/kimblad/TwinSharp) - A C# library that can view and control many aspects of TwinCAT such as: axes, PLCs, realtime settings and IPC.
+* [Stage](https://github.com/Krystian-L-Lis/Stage) – Framework for building PLC applications with a browsable composition model, state model, MPMC channel, and other useful tools.
   
 ## Repos
 
