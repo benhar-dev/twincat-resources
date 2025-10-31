@@ -338,6 +338,9 @@ If you have a link which is worth sharing with others, please raise a new issue 
 #### TF6100 | OPC UA Configurator
 #### TF6100 | OPC UA Gateway
 #### TF6100 | OPC UA Server
+
+* [Beckhoff TC6100 OPC UA Configuration Setup Walk through](https://www.youtube.com/watch?v=JAchvzrzgSw) - Walkthrough video from Kim Smyth on Youtube
+
 #### TF6105 | TwinCAT 3 OPC UA Pub/Sub
 #### TF6120 | OPC DA
 #### TF6220 | TwinCAT 3 EtherCAT Redundancy 250
