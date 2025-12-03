@@ -156,6 +156,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
 #### TE1700 | TwinCAT 3 CoAgent
 #### TE2000 | TwinCAT 3 HMI Engineering
 
+* [Official Feature release notes](https://www.beckhoff.com/en-en/products/automation/twincat/texxxx-twincat-3-engineering/feature-release-notes-te2000-tf2000-twincat-3-hmi/) - Official Release notes from Beckhoff.  Only feature additions.
 * [tchmi-hotkeys](https://github.com/benhar-dev/tchmi-hotkeys) - Proof of concept, add keyboard shortcuts to TcHmiButtons
 * [tchmi-keyboard-usermanagement-fix](https://github.com/benhar-dev/tchmi-keyboard-usermanagement-fix) - Proof of concept, add keyboard to user management
 
