@@ -2,6 +2,11 @@
 
 A curated list of TwinCAT resources.
 
+## Disclaimer
+
+Links in this repository point to third-party content. These resources have not been audited for security, quality, licensing, or fitness for purpose. 
+Use at your own risk, and always review source code, binaries, and licenses before use, especially in safety-critical or production systems.
+
 ## Contributing
 If you have a link which is worth sharing with others, please raise a new issue on the issues tab, or submit it to the repo by creating a pull request.
 
@@ -16,6 +21,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
   * [Forums](#forums)
   * [Libraries](#libraries)
   * [Repos](#repos)
+  * [Tools](#tools)
   * [Videos](#videos)
   * [Other](#other)
     
@@ -43,7 +49,8 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [Contact and Coil](http://www.contactandcoil.com/) by **Scott Whitlock** - Programming tutorials on TwinCAT 3
 * [Cook & Code](https://roald87.github.io/twincat) by **Roald Ruiter** - TwinCAT blog by the author of [TcBlack](https://github.com/Roald87/TcBlack)
 * [ekvip Blog](https://ekvip.de/blog-ekvip/) by **ekvip automation GmbH** - A blog exploring the world of PLC programming, TwinCAT, and automation, offering insights, knowledge, and a comprehensive [style guide](https://ekvip.de/style-guide/) for professionals and newcomers alike.
-* [Got TwinCAT](https://gotwincat.blogspot.com/) [\[translated\]](https://gotwincat-blogspot-com.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-GB) by **Voronin Nikolai** (Russian)
+* [Got TwinCAT](https://gotwincat.blogspot.com/) by **Voronin Nikolai** - [\[translated\]](https://gotwincat-blogspot-com.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-GB) (Russian)
+* [Hello TwinCAT](https://hellotwincat.dev/) - Let's learn something new blog, containing TwinCAT hints, tips and tools. 
 * [Kassym Dorsel’s Blog](https://kassymdorsel.com/blog) by **Kassym** TwinCAT 3 development blog
 * [PLC Coder](https://www.plccoder.com/) by **Gerhard Barteling** - TwinCAT development blog from the author of [STweep](https://www.stweep.com/)
 * [Stefan Henneken](https://stefanhenneken.net/) by **Stefan Henneken** - Posts covering TwinCAT, Object oriented programming, .Net and C#
@@ -82,6 +89,10 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
 * [Twinpack](https://github.com/Zeugwerk/Twinpack) - A powerful and user-friendly package management tool for TwinCAT libraries.
+
+## Tools
+
+* [TwinCAT Viewer Online](https://viewer.hellotwincat.dev) - Browse GitHub projects in human readable form.
 
 ## Videos
 
