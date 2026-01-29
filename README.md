@@ -109,6 +109,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [Curso OOP IEC61131-3 PLC](https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube) by **[Runtimevic](https://github.com/runtimevic)** - OOP IEC61131-3 PLC Course (Spanish)
 * [Electrical Automation Hands-On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA) - Hands-on and practice experience in industrial automation control (Includes TwinCAT) 
 * [Jakob Sagatowski's YouTube channel](https://www.youtube.com/JakobSagatowski) - Comprehensive tutorials about PLC programming and TwinCAT 3
+* [McKernon Controls' YouTube channel](https://www.youtube.com/@McKernonControls) - Growing list of Beckhoff Realtime Linux videos
 * [Oleg Mueller’s YouTube channel](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg) - Video series conveys practical knowledge about TwinCAT 3 PLC and HMI
 * [PLC programming for beginners](https://www.youtube.com/playlist?list=PL2LjUivoqcmUNF4wfaZdWQEZm9ptpIFuw) - Youtube playlist by Prof. Dr. Stöcker, University of Applied Sciences Hamburg. Perfect for beginners, includes TwinCAT setup and IEC61131 basics (German).
 * [SquishyBrained YouTube channel](https://www.youtube.com/user/Evan5659) - Video series on PLC Programming and TwinCAT
