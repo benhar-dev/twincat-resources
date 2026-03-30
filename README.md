@@ -21,6 +21,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
   * [Forums](#forums)
   * [Libraries](#libraries)
   * [Repos](#repos)
+  * [AI](#ai)
   * [Tools](#tools)
   * [Videos](#videos)
   * [Other](#other)
@@ -89,6 +90,10 @@ If you have a link which is worth sharing with others, please raise a new issue 
 * [TcOpenGroup](https://github.com/TcOpenGroup) - Open source libraries and tools for Beckhoffs' TwinCAT3 platform
 * [TcUnit](https://github.com/TcUnit) - An unit testing framework for Beckhoff's TwinCAT 3
 * [Twinpack](https://github.com/Zeugwerk/Twinpack) - A powerful and user-friendly package management tool for TwinCAT libraries.
+
+## AI
+
+* [TwinCAT 3 Skill.md](https://github.com/rako233/aiskills) by **Ralph Koettlitz** - Skill.md file For TwinCAT 3.
 
 ## Tools
 
