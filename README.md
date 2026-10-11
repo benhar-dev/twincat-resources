@@ -94,6 +94,8 @@ If you have a link which is worth sharing with others, please raise a new issue 
 ## AI
 
 * [TwinCAT 3 Skill.md](https://github.com/rako233/aiskills) by **Ralph Koettlitz** - Skill.md file For TwinCAT 3.
+* [twincat-st](https://github.com/SionVerhoef/twincat-st) by **Sion Verhoef** - Agent skill for writing and reviewing TwinCAT 3 Structured Text, with an executable reviewer. Tested on Claude Code and GitHub Copilot.
+* [twincat-scope](https://github.com/SionVerhoef/twincat-scope) by **Sion Verhoef** - Agent skill for building TwinCAT 3 Scope projects that record, and diagnosing faults from .svdx/CSV recordings.
 
 ## Tools
 
