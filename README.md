@@ -98,6 +98,7 @@ If you have a link which is worth sharing with others, please raise a new issue 
 ## Tools
 
 * [TwinCAT Viewer Online](https://viewer.hellotwincat.dev) - Browse GitHub projects in human readable form.
+* [TwinCatAdsTool](https://github.com/elconfa/TwinCatAdsTool) - Windows tool to explore, monitor, back up and compare TwinCAT variables over ADS (.NET 8 fork of [fbarresi/TwinCatAdsTool](https://github.com/fbarresi/TwinCatAdsTool)).
 
 ## Videos
 
